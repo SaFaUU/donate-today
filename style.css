@@ -260,3 +260,59 @@ footer {
     margin: 0px;
     padding: 0;
 }
+
+.our-campaigns {
+    display: flex;
+    margin-top: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.campaign-box {
+    width: 70%;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px rgb(214, 214, 214);
+    margin: 0px 30px;
+}
+
+.our-campaigns img {
+    width: 100%;
+}
+
+.our-campaigns p {
+    margin-top: 0;
+}
+
+.our-campaigns h4 {
+    margin-bottom: 0px;
+
+}
+
+.read-more-button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#read-more-id {
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 120px;
+    background-color: #FF595;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+.our-campaigns .read-more-button {
+    padding: 0px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    box-shadow: none;
+}
